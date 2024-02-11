@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alireza-da" alt="alireza-da" /></a> </p>
 
-- 🔭 I’m currently working on [Ticketo](https://ticket.sunrp.ir/)
-
 - 🌱 I’m currently learning **Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alireza-da?tab=repositories](https://github.com/alireza-da?tab=repositories)
